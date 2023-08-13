@@ -27,3 +27,4 @@ brew install k6
 
 - [k6 result output](https://k6.io/docs/get-started/results-output/)
 - [k6 coding](https://k6.io/docs/get-started/running-k6/)
+- [About k6 and xk6](https://k6.io/about/)
